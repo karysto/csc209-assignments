@@ -1,0 +1,5 @@
+A file transfer protocol is an agreement between sender and receiver for transferring a file across a (possibly unreliable) connection. You use HTTP to receive files every day when visiting webpages, and you may be familiar with FTP which is another popular protocol for file transfers.
+
+In this assignment, you'll be writing a server for a file transfer protocol called xmodem. When finished, you will be able to connect an xmodem client to your server and send a file to your server using the xmodem protocol.
+
+

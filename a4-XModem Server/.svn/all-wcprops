@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/csc209-2014-01/g3jwpark/!svn/ver/9/a4
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/csc209-2014-01/g3jwpark/!svn/ver/15/a4/makefile
+END
+crc16.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/csc209-2014-01/g3jwpark/!svn/ver/20/a4/crc16.c
+END
+helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/csc209-2014-01/g3jwpark/!svn/ver/20/a4/helper.c
+END
+client1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/csc209-2014-01/g3jwpark/!svn/ver/21/a4/client1.c
+END
+xmodemserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/csc209-2014-01/g3jwpark/!svn/ver/19/a4/xmodemserver.c
+END
+crc16.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/csc209-2014-01/g3jwpark/!svn/ver/20/a4/crc16.h
+END
+xmodemserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/csc209-2014-01/g3jwpark/!svn/ver/20/a4/xmodemserver.h
+END

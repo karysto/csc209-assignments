@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/csc209-2014-01/g3jwpark/!svn/ver/6/a2
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/csc209-2014-01/g3jwpark/!svn/ver/4/a2/Makefile
+END
+crc16.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/csc209-2014-01/g3jwpark/!svn/ver/6/a2/crc16.c
+END
+data.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/csc209-2014-01/g3jwpark/!svn/ver/5/a2/data.h
+END
+packetize.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/csc209-2014-01/g3jwpark/!svn/ver/6/a2/packetize.c
+END
+readstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/csc209-2014-01/g3jwpark/!svn/ver/6/a2/readstream.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/csc209-2014-01/g3jwpark/!svn/ver/5/a2/list.c
+END
